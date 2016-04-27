@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\Synless Encrustator\Synless Encrustator\bin\Debug\Synless Encrustator.exe.config
+d:\documents\visual studio 2015\Projects\Synless Encrustator\Synless Encrustator\obj\Debug\Synless Encrustator.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\Synless Encrustator\Synless Encrustator\obj\Debug\Synless_Encrustator.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Synless Encrustator\Synless Encrustator\obj\Debug\Synless Encrustator.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Synless Encrustator\Synless Encrustator\bin\Debug\Synless Encrustator.exe
+d:\documents\visual studio 2015\Projects\Synless Encrustator\Synless Encrustator\bin\Debug\Synless Encrustator.pdb
+d:\documents\visual studio 2015\Projects\Synless Encrustator\Synless Encrustator\obj\Debug\Synless Encrustator.exe
+d:\documents\visual studio 2015\Projects\Synless Encrustator\Synless Encrustator\obj\Debug\Synless Encrustator.pdb
+d:\documents\visual studio 2015\Projects\Synless Encrustator\Synless Encrustator\obj\Debug\Synless_Encrustor.Form1.resources
